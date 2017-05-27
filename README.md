@@ -49,6 +49,10 @@ Have fun playing!
 
 Special thanks to Vicenç Soler for his teaching.
 
+## Author
+Xavier López
+Contact: xavier.lopeze@gmail.com
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
