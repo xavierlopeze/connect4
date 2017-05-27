@@ -1,7 +1,7 @@
 # connect4
 Connect 4 game using a simple heuristic function coded in C. 
 
-This game has been fully developed as an assignment of the subject "Advanced Programming", Bachelors degree in Mathematics at UAB.
+This game has been fully developed by Xavier López as an assignment of the subject "Advanced Programming", Bachelors degree in Mathematics at UAB.
 
 ## Getting Started
 
