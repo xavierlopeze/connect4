@@ -51,6 +51,7 @@ Special thanks to Vicenç Soler for his teaching.
 
 ## Author
 Xavier López
+
 Contact: xavier.lopeze@gmail.com
 
 ## License
