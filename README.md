@@ -47,7 +47,7 @@ Have fun playing!
 
 ## Acknowledgments
 
-Special thanks to Vicenç Soler for his teaching.
+Special thanks to Vicenç Soler for his teachings.
 
 ## Author
 Xavier López
