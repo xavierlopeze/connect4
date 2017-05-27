@@ -7,7 +7,6 @@
  * OUTPUT: torna un valor per al tauler (funcio heuristica)
  */
 double heuristic(char tauler[N][M]){
-	int liniesJ1, liniesJ2;
 	
 	if(IVenRatlla(tauler, J1)) //humà guanya, com més petit més fàcil per el huma guanyar
 		return -1e6;
