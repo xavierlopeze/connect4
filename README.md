@@ -1,5 +1,6 @@
 # connect4
 Connect 4 game using a simple heuristic function coded in C. 
+
 This game has been developed as an assignment of the subject "Advanced Programming" of the Bachelors degree in Mathematics at UAB.
 
 ## Getting Started
