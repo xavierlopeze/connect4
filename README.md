@@ -33,7 +33,7 @@ If the input integer is lower than (1) or greater than (7) you will get an input
 
 ![alt text](Screenshots/screenshot04.png "Description goes here")
 
-When the game is finisehd you can play again, or quit (input 's' to play again or'n' to quit).
+When the game is finisehd you can play again, or quit (input 's' to play again or 'n' to quit).
 
 ![alt text](Screenshots/screenshot05.png "Description goes here")
 
