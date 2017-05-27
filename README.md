@@ -29,10 +29,16 @@ Once the level of difficulty is introduced the game starts, in order to move you
 
 ![alt text](Screenshots/screenshot03.png "Description goes here")
 
-If the input integer is lower than (1) or greater than (7) you will get an input error.
+If the input integer is lower than (1) or greater than (7) you will get an input error. If you input to move in a column that is full, you will get an input error as well.
 
-If you input to move in a column that is full, you will get an input error as well.
+![alt text](Screenshots/screenshot04.png "Description goes here")
 
-Once a player (you or the bot) has won the game, you can play again, or quit (input s to play again, n to quit).
+When the game is finisehd you can play again, or quit (input 's' to play again or'n' to quit).
+
+![alt text](Screenshots/screenshot05.png "Description goes here")
 
 When you quit you will get your final score.
+
+![alt text](Screenshots/screenshot01.png "Description goes here")
+
+Have fun playing!
