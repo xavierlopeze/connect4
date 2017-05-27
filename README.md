@@ -19,3 +19,5 @@ Compile and run
 $ gcc  main.c -o  main
 $ ./main
 ```
+
+![alt text](Screenshots/screenshot01.png "Description goes here")
