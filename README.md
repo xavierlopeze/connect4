@@ -47,7 +47,7 @@ Have fun playing!
 
 ## Acknowledgments
 
-Great teachings from Vicente Soler, my professor, has made this project possible.
+Special thanks to Vicenç Soler for his teaching.
 
 ## License
 
