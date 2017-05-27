@@ -44,3 +44,11 @@ When you quit you will get your final score.
 ![alt text](Screenshots/screenshot01.png "Description goes here")
 
 Have fun playing!
+
+## Acknowledgments
+
+Great teachings from Vicente Soler, my professor, has made this project possible.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
